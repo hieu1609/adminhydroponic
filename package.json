@@ -23,7 +23,7 @@
     "@types/snapsvg": "^0.5.0",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.9.3",
-    "highcharts": "^7.2.0",
+    "highcharts": "^7.2.2",
     "highcharts-angular": "^2.4.0",
     "jquery": "^3.4.1",
     "ng2-charts": "^2.3.0",
